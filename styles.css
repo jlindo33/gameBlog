@@ -1,0 +1,103 @@
+/* Header CSS */
+
+
+.jumbotron {
+    background-image: url(images/foundation/controller.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #fff;
+    text-align: center;
+    padding: 15% 10% 15% 10%;
+
+    
+}
+
+.jtron-img {
+    background-image: url(images/foundation/arcade_stick.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #fff;
+    text-align: center;
+    padding: 15% 10% 15% 10%;
+}
+
+h1 {
+    font-family: "Jost", sans-serif;
+    font-size: 9vw;
+    font-weight: 600;
+}
+
+h2 {
+    font-family: "Jost", sans-serif;
+    font-size: 5.5vw;
+    font-weight: 600;
+}
+
+
+h4 {
+    font-family: "Jost", sans-serif;
+    font-size: 3.5vw;
+}
+
+h6 {
+    font-family: "Jost", sans-serif;
+    font-size: 3vw;
+}
+
+p, h3 {
+    margin: 1.5vw 4vw;
+}
+
+.img-thumbnail {
+    border: none;
+    border-radius: 5%;
+    width: 70vw;
+}
+
+
+.post-preview {
+    padding: 0 5% 5% 5%;
+    border-bottom: solid rgb(235, 235, 235);
+    font-family: "Jost", sans-serif;
+    margin-top: 5%;
+}
+
+.post {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.post-image {
+    border-radius: 5%;
+    width: 70vw;
+    margin: 5% 0 5% 0;
+    text-align: center;
+}
+
+.post-paragraph {
+    text-align: left;
+}
+
+.col-sm-12 {
+    text-align: center;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+#footer {
+    color: #fff;
+    background-color: #69696e;
+    text-align: center;
+    padding: 1% 0 .2% 0;
+}
+
+
+
+
+
+
+
+

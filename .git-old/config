@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Joe"]
+	url = https://github.com/jlindo33/gameblog.git
+	fetch = +refs/heads/*:refs/remotes/Joe/*
+[branch "master"]
+	remote = Joe
+	merge = refs/heads/master
